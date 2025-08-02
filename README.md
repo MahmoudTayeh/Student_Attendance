@@ -67,13 +67,6 @@ Welcome to the **Student Attendance System** – a robust and efficient applicat
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | Attendance Marking | Reports |
-|-----------|-------------------|---------|
-| _Add screenshots here_ | _Add screenshots here_ | _Add screenshots here_ |
-
----
 
 ## 🤝 Contributing
 
